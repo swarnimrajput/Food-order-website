@@ -35,3 +35,27 @@ Make sure you have the following installed:
    ```bash
    git clone git@github.com:swarnimrajput/Food-order-website.git
 
+2.**Install Dependencies**:
+  npm install
+
+3.**Set Up Swiggy API**:
+Obtain API access from Swiggy.
+
+
+4.**Start the Application**:
+npm start
+
+## Usage
+Homepage: Browse and select restaurants and view their menus.
+Responsive Design: Enjoy a seamless experience on both desktop and mobile devices.
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request to propose changes
+
+## Acknowledgments
+Swiggy API for providing the restaurant and menu data.
+Tailwind CSS for the responsive design framework.
+React for the frontend library.
+  
+   
+
