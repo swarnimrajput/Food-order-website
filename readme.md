@@ -34,6 +34,7 @@ Make sure you have the following installed:
 
    ```bash
    git clone git@github.com:swarnimrajput/Food-order-website.git
+<<<<<<< Updated upstream
 
 2.**Install Dependencies**:
   npm install
@@ -59,3 +60,5 @@ React for the frontend library.
   
    
 
+=======
+>>>>>>> Stashed changes
